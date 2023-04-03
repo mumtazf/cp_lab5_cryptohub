@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import CoinInfo from "../CoinInfo";
+import CoinInfo from "/src/Components/CoinInfo";
 
 const API_KEY = import.meta.env.VITE_APP_API_KEY;
 
